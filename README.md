@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @OneApril-codepage
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
